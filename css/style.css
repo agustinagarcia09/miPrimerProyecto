@@ -1,0 +1,37 @@
+h1 {
+    font-family: "Playwrite CU", cursive;
+    font-family: 100px;
+    text-align: center;
+}
+
+p {
+    font-family: "Antic Slab", serif;
+}
+
+footer {
+    background-image: url(/img/background.jpg)
+}
+
+#sobremi {
+    height: 30em;
+}
+#colDeLibro {
+    height: 30em;
+}
+#fondo{
+    background-color: #D2B48C; 
+}
+
+#sobrenosotros {
+    background-image: url('https://i.ibb.co/CVf3rcG/descarga.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 40vh
+}
+
+#fondolibros{
+    background-image: url('https://i.ibb.co/dDx55Hy/descarga-1.jpg');
+    background-size: cover;
+    background-position: center;
+    
+}
